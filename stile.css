@@ -7,7 +7,7 @@ margin: 40px;
 background-color: rgb(55, 0, 255);
 text-size-adjust: 40px;
 justify-content: center;
-border:solid 4px rgb(rgb(26, 1, 1), rgb(3, 27, 3), rgb(2, 1, 8);
+border:solid 4px rgb(red, green, blue)
 }
 section{
   background-color: brown;
