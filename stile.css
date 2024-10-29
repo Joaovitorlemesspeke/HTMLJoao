@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(0, 0, 255);
+  background-color: #0000ff;
 color:black;
 }
 <header>{
@@ -12,5 +12,10 @@ section{
   background-color: brown;
 margin: 40px;
 display: flex;
+}
+
+ <padding>{
+ background-color: black;
+  border: 40px;
 
 }
