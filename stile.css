@@ -8,6 +8,8 @@ background-color: rgb(55, 0, 255);
 text-size-adjust: 40px;
 justify-content: center;
 border:solid 4px rgb(red, green, blue)
+padding: 4px;
+
 }
 section{
   background-color: rgb(42, 165, 89);
