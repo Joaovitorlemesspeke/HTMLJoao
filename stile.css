@@ -7,5 +7,10 @@ margin: 40px;
 background-color: rgb(55, 0, 255);
 text-size-adjust: 40px;
 justify-content: center;
+}
+section{
+  background-color: brown;
+margin: 40px;
+display: flex;
 
 }
